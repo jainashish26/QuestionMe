@@ -1,2 +1,2 @@
 # QuestionMe
-A Web 2.0 project which test and upgrades the user knowledge.
+A Web 2.0 project which test and enhancesthe user knowledge.
